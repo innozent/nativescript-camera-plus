@@ -6,5 +6,5 @@ allprojects {
 }
 dependencies {
    implementation "com.android.support:exifinterface:+"
-	implementation 'com.github.triniwiz:fancycamera:1.2.4'
+	implementation 'com.github.triniwiz:fancycamera:1.2.2'
 }
